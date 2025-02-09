@@ -12,9 +12,13 @@ The "height" column was populated with random numbers between 150 and 180 using 
 The analysis focuses on the following key aspects:
 
 1.Percentage-wise distribution of employees across different teams.
+
 2.Position-wise distribution of employees based on their roles.
+
 3.Identification of the most prevalent age group among employees.
+
 4.Determining the team with the highest salary expenditure.
+
 5.Understanding the relationship between age and salary of employees.
 
 # Step 3: Visualizations & Graphical Representations
@@ -32,9 +36,13 @@ The findings are presented using various visualization techniques:
 
 # Key Trends Observed :
 1.The New Orleans Pelicans have the highest number of employees.
+
 2.Shooting Guard (SG) is the most common position among employees.
+
 3.Employees aged 26-30 are the most prevalent in the dataset.
+
 4.Cleveland Cavaliers spend the most on salaries among teams, while Centers (C) receive the highest salaries among positions.
+
 5.There is a slight positive correlation between age and salary, suggesting that salaries tend to increase with age, but not significantly.
 
 
