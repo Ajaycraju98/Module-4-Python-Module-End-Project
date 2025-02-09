@@ -21,9 +21,13 @@ The analysis focuses on the following key aspects:
 The findings are presented using various visualization techniques:
 
 1.Pie Chart – Displays the employee distribution across teams.
+
 2.Bar Chart – Represents employee distribution by position.
+
 3.Histogram – Shows the distribution of employees by age group.
+
 4.Line Chart – Illustrates salary expenditure by team and position.
+
 5.Scatter Plot – Visualizes the correlation between age and salary.
 
 # Key Trends Observed :
