@@ -21,7 +21,7 @@ The analysis focuses on the following key aspects:
 
 5.Understanding the relationship between age and salary of employees.
 
-# Step 3: Visualizations & Graphical Representations
+# Step 3: Graphical Representations 
 The findings are presented using various visualization techniques:
 
 1.Pie Chart – Displays the employee distribution across teams.
@@ -34,7 +34,7 @@ The findings are presented using various visualization techniques:
 
 5.Scatter Plot – Visualizes the correlation between age and salary.
 
-# Key Trends Observed :
+# Key Trends Observed 
 1.The New Orleans Pelicans have the highest number of employees.
 
 2.Shooting Guard (SG) is the most common position among employees.
